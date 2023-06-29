@@ -1,0 +1,4 @@
+1. google에 list of python modules 검색.
+2. docs.python.org 접속
+3. 해당 페이지에서 외장 함수 목록 확인 가능
+4. 해당 함수 페이지에 들어가면, 하단에 사용 예제가 함께 제공됨. 
