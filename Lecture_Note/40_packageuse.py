@@ -18,3 +18,9 @@ trip = vietnam.VietnamPackage()
 trip.detail()
 trip2 = thailand.ThailandPackage()
 trip2.detail()
+
+
+import inspect
+import random
+print(inspect.getfile(random)) #inspect 모듈을 통한 random 파일의 위치 출력
+print(inspect.getfile(thailand)) #inspect 모듈을 통한 thailand 파일의 위치 출력
